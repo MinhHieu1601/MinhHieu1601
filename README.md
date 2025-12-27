@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="YOUR_IMAGE_URL_HERE" alt="iznow-banner" style="border-radius: 15px;">
+<img src="https://img.pikbest.com/ai/illus_our/20230421/583e7a0beae20c73113f6b0dfde21fa7.jpg!w700wp" alt="iznow-banner" style="border-radius: 15px;">
 <div align="center">
   <h1><pre>Hi, I'm 𝕚𝕫𝕟𝕠𝕨</pre></h1>
 </div>
